@@ -1,0 +1,5 @@
+Epoch 1, Batch 1, Loss: 314500.0938
+Epoch 1, Batch 2, Loss: 418811.3125
+Epoch 1, Batch 3, Loss: 625879.0000
+Epoch 1, Batch 4, Loss: 433036.5312
+Epoch 1, Batch 5, Loss: 493366.9375
