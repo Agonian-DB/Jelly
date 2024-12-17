@@ -7,7 +7,6 @@
 - taichi_test: new implementations of system simulation
 - taichi_record_simple: record of using taichi to train the model.
 
-  # Heterogeneous Composition Prediction via Deformation Dynamics
 
 # 3. ModelWithTaichi
 
